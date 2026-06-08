@@ -6,7 +6,7 @@ from openai import OpenAI
 # ===============================
 # Load Environment Variables
 # ===============================
-load_dotenv()
+
 GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 
 # ===============================
