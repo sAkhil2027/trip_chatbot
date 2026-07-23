@@ -242,9 +242,6 @@ This project is licensed under the MIT License.
 
 AI Engineer | Machine Learning Engineer | Generative AI Developer
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
